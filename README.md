@@ -1,6 +1,6 @@
-# Challenge.gov Ideation
-
-This is the GitHub repository for [an RFI](https://docs.google.com/forms/d/e/1FAIpQLSeCLiXAGiycaDS5aSeL1gRZbR3957Yc15NqNjKwD0VlNn7JUA/viewform?usp=sf_link), posted on TBD. Please submit any questions as [an Issue](https://github.com/18F/tts-buy-challengegov-ideation/issues) in this repository by *February 8, 2018 at 5:00pm EST*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+# TTS Challenge.gov Ideation
+ 	 
+This is the GitHub repository for [an RFI](https://docs.google.com/forms/d/e/1FAIpQLSeCLiXAGiycaDS5aSeL1gRZbR3957Yc15NqNjKwD0VlNn7JUA/viewform?usp=sf_link) by the GSA's [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services), posted on TBD. Please submit any questions as [an Issue](https://github.com/18F/tts-buy-challengegov-ideation/issues) in this repository by *February 8, 2018 at 5:00pm EST*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
 **Responses are due by February 12, 2018 at 5:00pm EST.**
 

@@ -10,7 +10,7 @@ Challenge.gov's Project Management Office (PMO) requires the provision and maint
 
 ### How to respond
 
-We can only commit to reviewing those responses submitted through the Google Form, linked above.
+We can only commit to reviewing those responses submitted through the Issue Template, linked above.
 
 ## Contributing
 
